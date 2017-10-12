@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
     private String tag = "Main Activity";
     MediaPlayer player;
     int position;
-    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
